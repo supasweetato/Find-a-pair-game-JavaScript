@@ -1,0 +1,11 @@
+.row {
+  display: flex;
+  margin-bottom: 5px;
+}
+.card1_1 , .card1_2 , .card1_3, .card1_4, .card2_1, .card2_2, .card2_3, .card2_4   {
+  height: 300px;
+  width: 167px;
+  background: url(cards/b.jpg);
+  background-size: contain;
+  margin-right: 5px;
+}
